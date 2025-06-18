@@ -1,10 +1,10 @@
 
-<img aligen="center" alt="Coding" height="400" padding="100" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif"/>
-
 <h1 align="center">Hi 👋, I'm Chippa Shivanisri</h1>
 <h3 align="center">Full-Stack Developer | Microservices | MERN Stack |CTO of Shikshaarthi</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivanisrichippa&label=Profile%20views&color=0e75b6&style=flat" alt="shivanisrichippa" /> </p>
+<img aligen="center" alt="Coding" height="400" padding="400" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif"/>
+
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivanisrichippa" alt="shivanisrichippa" /></a> </p>
 
