@@ -1,8 +1,8 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://shikshaarthi.com)
+
 
 <h1 align="center">Hi 👋, I'm Chippa Shivanisri</h1>
 <h3 align="center">Full-Stack Developer | Microservices | MERN Stack |CTO of Shikshaarthi</h3>
-<img aligen="centre" alt="Coding" width="500" src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif"
+<img aligen="center" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivanisrichippa&label=Profile%20views&color=0e75b6&style=flat" alt="shivanisrichippa" /> </p>
 
