@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Chippa Shivanisri</h1>
 <h3 align="center">Full-Stack Developer | Microservices | MERN Stack |CTO of Shikshaarthi</h3>
 
-<img aligen="center" alt="Coding" height="400" padding="400" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif"/>
+<img aligen="center" alt="Coding" height="400" width="600" padding="400" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif"/>
 
 
 
